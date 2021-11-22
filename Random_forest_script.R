@@ -1,6 +1,7 @@
 all(sapply( c("parallel","doParallel","foreach","caret","pipeR","tidyr","glmnet","randomForestSRC","raster","magrittr","sp","mapview", "elevatr", "sf", "readxl", "GSIF", "rnaturalearth","rnaturalearthhires","rgeos","geosphere"),
             require, character.only = T))
 
+#test
 setwd("C:/Users/Daniel/Google Drive/Erdélyi Dániel/Doktori/Alaa") #change it
 
 
